@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AlwaysSoberActivity!</string>
+    <string name="app_name">AlwaysSober</string>
+	<string name="name">Name:</string>
+	<string name="phone">Phone:</string>
+	<string name="date">Date:</string>
+	<string name="time">Time:</string>
+	<string name="message">Message:</string>
+	<string name="new_schedule">New Schedule</string>
+	<string name="add_schedule">Add Schedule</string>
+	<string name="which_phone">Which Phone???</string>
+
+</resources>
